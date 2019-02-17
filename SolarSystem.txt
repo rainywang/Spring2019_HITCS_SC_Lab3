@@ -1,0 +1,11 @@
+Sun ::= <6.96392e5,1.9885e30>
+Planet ::= <Earth,solid,blue,6378,1.521e8,29.87,counterclockwise>
+Planet ::= <Mercury, , , , ,clockwise>
+Planet ::= <Saturn, , , , ,>
+Planet ::= <Jupiter, , , , ,>
+Planet ::= <Mars, , , , ,>
+Planet ::= <Neptune, , , , ,>
+Planet ::= <Uranus, , , , ,>
+Planet ::= <Venus, , , , ,>
+
+请查阅资料自行补充所有行星的真实数据

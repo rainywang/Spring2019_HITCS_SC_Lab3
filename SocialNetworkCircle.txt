@@ -1,0 +1,9 @@
+CentralUser ::= TommyWong
+
+SocialTie ::= <TommyWong, LisaWong, 0.98>
+SocialTie ::= <TommyWong, TomWong, 0.2>
+SocialTie ::= <TomWong, FrankLee, 0.71>
+
+User ::= <LisaWong, 25, F>
+User ::= <TomWong, 61, M>
+User ::= <FrankLee, 42, M>

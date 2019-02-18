@@ -7,5 +7,3 @@ Planet ::= <Mars,Silid,Red,637.137,9.99e10,1000.93,CCW,110>
 Planet ::= <Neptune,Liquid,Yellow,66278.137,1.49e5,9293.05,CCW,360>
 Planet ::= <Uranus,Gas,Blue,637.137,1.49e11,10000,CW,359>
 Planet ::= <Venus,Solid,Red,63783.137,1.49e20,203.24,CCW,181.23>
-
-//以上数据非真实数据

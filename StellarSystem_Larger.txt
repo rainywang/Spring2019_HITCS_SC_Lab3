@@ -1,5 +1,4 @@
 Stellar ::= <ThreeBody,6.96392e5,1.9885e30>
-NumOfTracks ::= 10000
 Planet ::= <p0,Solid,Dark,9242.86,2.89e7,4322,CW,219>
 Planet ::= <p1,Gas,Yellow,7515.80,7.81e9,8283,CCW,33>
 Planet ::= <p2,Solid,Green,9396.67,2.64e8,7734,CCW,75>
